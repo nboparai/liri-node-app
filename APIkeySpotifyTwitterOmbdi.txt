@@ -1,6 +1,0 @@
-spotify
-API Key: 9879b411b75c4b53954ba4b8c1185a04
-Secret: 2b0e6d57fa8f4f269f065ec6c977250a
-
-ODMB
- http://www.omdbapi.com/?i=tt3896198&apikey=7587dcf2
